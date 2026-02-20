@@ -27,7 +27,7 @@ function App() {
 
   <div className="mt-4 space-x-4">
     <a 
-      href="https://linkedin.com/in/Sneha-Borude" 
+      href="https://www.linkedin.com/in/sneha-borude-5712b42aa?utm_source=share_via&utm_content=profile&utm_medium=member_android" 
       target="_blank"
       className="bg-blue-600 px-4 py-2 rounded"
     >
